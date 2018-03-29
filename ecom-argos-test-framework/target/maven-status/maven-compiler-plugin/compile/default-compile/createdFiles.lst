@@ -1,0 +1,7 @@
+uk\co\ecom\argos\automation\test\framework\pages\ProductListingPage.class
+uk\co\ecom\argos\automation\test\framework\stepDefinitions\AddToTrolleyStepDef.class
+uk\co\ecom\argos\automation\test\framework\App.class
+uk\co\ecom\argos\automation\test\framework\BaseMain.class
+uk\co\ecom\argos\automation\test\framework\pages\HomePage.class
+uk\co\ecom\argos\automation\test\framework\pages\SelectProductFromList.class
+uk\co\ecom\argos\automation\test\framework\stepDefinitions\SearchProductDef.class
