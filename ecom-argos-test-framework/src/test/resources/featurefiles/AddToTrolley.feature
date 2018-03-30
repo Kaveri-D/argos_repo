@@ -8,3 +8,5 @@ Feature:Test Add Item To Trolley feature
     And   I add product to the trolley
     And   I go to the trolley
     Then  I should see "Chad Valley Ladybird Activity Toy" in the trolley
+
+     Scenario:  Navigate to product description page
